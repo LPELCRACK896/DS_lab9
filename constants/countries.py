@@ -33,3 +33,86 @@ LATAM_COUNTRIES = [
     'Uruguay',
     'Venezuela'
 ]
+
+ALL_COUNTRIES = ['Afghanistan', 'Albania', 'Algeria', 'American Samoa', 'Angola',
+       'Anguilla', 'Antigua and Barbuda', 'Argentina', 'Armenia', 'Aruba',
+       'Australia', 'Austria', 'Azerbaijan', 'Bahamas', 'Bahrain',
+       'Bangladesh', 'Barbados', 'Belarus', 'Belgium', 'Belize', 'Benin',
+       'Bermuda', 'Bhutan', 'Bolivia', 'Bosnia and Herzegovina',
+       'Botswana', 'Brazil', 'British Virgin Islands', 'Brunei',
+       'Bulgaria', 'Burkina Faso', 'Burundi', 'Cambodia', 'Cameroon',
+       'Canada', 'Cape Verde', 'Cayman Islands',
+       'Central African Republic', 'Chad', 'Chile', 'China', 'Colombia',
+       'Comoros', 'Congo', 'Cook Islands', 'Costa Rica', "Cote d'Ivoire",
+       'Croatia', 'Cuba', 'Cyprus', 'Czechia',
+       'Democratic Republic of Congo', 'Denmark', 'Djibouti', 'Dominica',
+       'Dominican Republic', 'Ecuador', 'Egypt', 'El Salvador',
+       'Equatorial Guinea', 'Eritrea', 'Estonia', 'Ethiopia',
+       'Falkland Islands', 'Faroe Islands', 'Fiji', 'Finland', 'France',
+       'French Guiana', 'French Polynesia', 'Gabon', 'Gambia', 'Georgia',
+       'Germany', 'Ghana', 'Gibraltar', 'Greece', 'Greenland', 'Grenada',
+       'Guadeloupe', 'Guam', 'Guatemala', 'Guinea', 'Guinea-Bissau',
+       'Guyana', 'Haiti', 'Honduras', 'Hong Kong', 'Hungary', 'Iceland',
+       'India', 'Indonesia', 'Iran', 'Iraq', 'Ireland', 'Israel', 'Italy',
+       'Jamaica', 'Japan', 'Jordan', 'Kazakhstan', 'Kenya', 'Kiribati',
+       'Kuwait', 'Kyrgyzstan', 'Laos', 'Latvia', 'Lebanon', 'Lesotho',
+       'Liberia', 'Libya', 'Lithuania', 'Luxembourg', 'Macao',
+       'Madagascar', 'Malawi', 'Malaysia', 'Maldives', 'Mali', 'Malta',
+       'Marshall Islands', 'Martinique', 'Mauritania', 'Mauritius',
+       'Mayotte', 'Mexico', 'Micronesia', 'Moldova', 'Mongolia',
+       'Montserrat', 'Morocco', 'Mozambique', 'Myanmar', 'Namibia',
+       'Nauru', 'Nepal', 'Netherlands', 'Netherlands Antilles',
+       'New Caledonia', 'New Zealand', 'Nicaragua', 'Niger', 'Nigeria',
+       'Niue', 'North Korea', 'North Macedonia',
+       'Northern Mariana Islands', 'Norway', 'Oman', 'Pakistan', 'Palau',
+       'Panama', 'Papua New Guinea', 'Paraguay', 'Peru', 'Philippines',
+       'Poland', 'Portugal', 'Puerto Rico', 'Qatar', 'Reunion', 'Romania',
+       'Russia', 'Rwanda', 'Saint Helena', 'Saint Kitts and Nevis',
+       'Saint Lucia', 'Saint Pierre and Miquelon',
+       'Saint Vincent and the Grenadines', 'Samoa',
+       'Sao Tome and Principe', 'Saudi Arabia', 'Senegal',
+       'Serbia and Montenegro', 'Seychelles', 'Sierra Leone', 'Singapore',
+       'Slovakia', 'Slovenia', 'Solomon Islands', 'Somalia',
+       'South Africa', 'South Korea', 'Spain', 'Sri Lanka', 'Sudan',
+       'Suriname', 'Swaziland', 'Sweden', 'Switzerland', 'Syria',
+       'Taiwan', 'Tajikistan', 'Tanzania', 'Thailand', 'Timor-Leste',
+       'Togo', 'Tokelau', 'Tonga', 'Trinidad and Tobago', 'Tunisia',
+       'Turkey', 'Turkmenistan', 'Turks and Caicos Islands', 'Tuvalu',
+       'Uganda', 'Ukraine', 'United Arab Emirates', 'United Kingdom',
+       'United States', 'United States Virgin Islands', 'Uruguay',
+       'Uzbekistan', 'Vanuatu', 'Venezuela', 'Vietnam',
+       'Wallis and Futuna', 'Western Sahara', 'World', 'Yemen', 'Zambia',
+       'Zimbabwe']
+
+AFRICA = ['Algeria', 'Angola', 'Benin', 'Botswana', 'Burkina Faso', 'Burundi', 'Cabo Verde', 'Cameroon',
+          'Central African Republic', 'Chad', 'Comoros', 'Congo', 'Democratic Republic of the Congo', 'Djibouti',
+          'Egypt', 'Equatorial Guinea', 'Eritrea', 'Eswatini', 'Ethiopia', 'Gabon', 'Gambia', 'Ghana', 'Guinea',
+          'Guinea-Bissau', 'Ivory Coast', 'Lesotho', 'Liberia', 'Libya', 'Madagascar', 'Malawi', 'Mali',
+          'Mauritania', 'Mauritius', 'Morocco', 'Mozambique', 'Namibia', 'Niger', 'Nigeria', 'Rwanda',
+          'Sao Tome and Principe', 'Senegal', 'Seychelles', 'Sierra Leone', 'Somalia', 'South Africa', 'South Sudan',
+          'Sudan', 'Tanzania', 'Togo', 'Tunisia', 'Uganda', 'Zambia', 'Zimbabwe']
+
+ASIA = ['Afghanistan', 'Armenia', 'Azerbaijan', 'Bahrain', 'Bangladesh', 'Bhutan', 'Brunei', 'Cambodia', 'China',
+        'Cyprus', 'Georgia', 'India', 'Indonesia', 'Iran', 'Iraq', 'Israel', 'Japan', 'Jordan', 'Kazakhstan',
+        'Kuwait', 'Kyrgyzstan', 'Laos', 'Lebanon', 'Malaysia', 'Maldives', 'Mongolia', 'Myanmar', 'Nepal',
+        'North Korea', 'Oman', 'Pakistan', 'Palestine', 'Philippines', 'Qatar', 'Saudi Arabia', 'Singapore',
+        'South Korea', 'Sri Lanka', 'Syria', 'Taiwan', 'Tajikistan', 'Thailand', 'Timor-Leste', 'Turkey', 'Turkmenistan',
+        'United Arab Emirates', 'Uzbekistan', 'Vietnam', 'Yemen']
+
+EUROPE = ['Albania', 'Andorra', 'Austria', 'Belarus', 'Belgium', 'Bosnia and Herzegovina', 'Bulgaria', 'Croatia',
+          'Cyprus', 'Czech Republic', 'Denmark', 'Estonia', 'Finland', 'France', 'Germany', 'Greece', 'Hungary',
+          'Iceland', 'Ireland', 'Italy', 'Kosovo', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Malta',
+          'Moldova', 'Monaco', 'Montenegro', 'Netherlands', 'North Macedonia', 'Norway', 'Poland', 'Portugal',
+          'Romania', 'Russia', 'San Marino', 'Serbia', 'Slovakia', 'Slovenia', 'Spain', 'Sweden', 'Switzerland',
+          'Ukraine', 'United Kingdom', 'Vatican City']
+
+NORTH_AMERICA = ['Antigua and Barbuda', 'Bahamas', 'Barbados', 'Belize', 'Canada', 'Costa Rica', 'Cuba', 'Dominica',
+                 'Dominican Republic', 'El Salvador', 'Grenada', 'Guatemala', 'Haiti', 'Honduras', 'Jamaica', 'Mexico',
+                 'Nicaragua', 'Panama', 'Saint Kitts and Nevis', 'Saint Lucia', 'Saint Vincent and the Grenadines',
+                 'Trinidad and Tobago', 'United States']
+
+SOUTH_AMERICA = ['Argentina', 'Bolivia', 'Brazil', 'Chile', 'Colombia', 'Ecuador', 'Guyana', 'Paraguay', 'Peru',
+                 'Suriname', 'Uruguay', 'Venezuela']
+
+OCEANIA = ['Australia', 'Fiji', 'Kiribati', 'Marshall Islands', 'Nauru', 'New Zealand', 'Palau',
+           'Papua New Guinea', 'Samoa', 'Solomon Islands', 'Tonga', 'Tuvalu', 'Vanuatu']
